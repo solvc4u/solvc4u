@@ -25,6 +25,17 @@ fn main() {
 }
 ```
 
+## ACTIVITY 👀
+
+<p align="center" style="block"; border-color: 1px solid #fff>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=solvc4u&theme=gotham" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=solvc4u">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solvc4u&theme=gotham&layout=donut" />
+    </a>
+</p>
+
 ## ⚡ My Skills
 <br />
 
